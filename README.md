@@ -37,3 +37,7 @@ Global variable control for game state (playing)
 List manipulation: append(), pop(), iteration
 f-strings and string formatting
 While loops with break/continue for game flow control
+
+Related Projects:
+WAR — Card game War implemented in Python OOP
+blackjack-api — This game converted into a production FastAPI REST API with PostgreSQL persistence
